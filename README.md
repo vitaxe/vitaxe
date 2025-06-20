@@ -20,7 +20,3 @@
 ## Контакты
 
 [GitHub](https://github.com/vitaxe) | [Telegram](https://t.me/wexativ)
-
----
-
-*“Код — это искусство, а не просто работа.”*
