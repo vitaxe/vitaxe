@@ -1,16 +1,26 @@
-## Hi there 👋
+# vitaxe
 
-<!--
-**vitaxe/vitaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Привет, я vitaxe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О себе
+
+- Cоздаю веб-проекты.
+- Фокусируюсь на аккуратном и понятном коде.
+- Работаю с PHP, JavaScript и современным CSS.
+
+---
+
+
+![Mushoku Tensei](https://media.giphy.com/media/3o7aD6vVyWW8K2VX5u/giphy.gif)
+
+---
+
+## Контакты
+
+[GitHub](https://github.com/vitaxe) | [Telegram](https://t.me/wexativ)
+
+---
+
+*“Код — это искусство, а не просто работа.”*
