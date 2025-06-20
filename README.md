@@ -13,7 +13,7 @@
 ---
 
 
-![Mushoku Tensei](https://media.giphy.com/media/3o7aD6vVyWW8K2VX5u/giphy.gif)
+![Mushoku Tensei](https://media.tenor.com/AUaTmhkdY-0AAAAi/tea-the-khajiit-cute.gif)
 
 ---
 
