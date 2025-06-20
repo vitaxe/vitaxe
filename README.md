@@ -19,4 +19,4 @@
 
 ## Контакты
 
-[GitHub](https://github.com/vitaxe) | [Telegram](https://t.me/wexativ)
+[GitHub](https://github.com/vitaxe) | [Telegram](https://t.me/wexativ) | [Telegram](https://www.youtube.com/@vitaxeseed6611)
