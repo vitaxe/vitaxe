@@ -1,4 +1,4 @@
-# HI, im vitaxe (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
+# HI, im vitaxe ꩜
 
 ![gif](https://media1.tenor.com/m/P7hCyZlzDH4AAAAd/wink-anime.gif)
 
